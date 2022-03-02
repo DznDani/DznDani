@@ -6,9 +6,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/dzndani)
 
 
-* 🎰 I am mainly a "graphic designer" but sometimes a translator or a programmer.
+* 💫 I am mainly a "graphic designer" but sometimes a translator or a programmer.
 
-* 💫 I am too a fan of gambling CS:GO skins, and losing all the money in it.
+* 🎰 I am too a fan of gambling CS:GO skins, and losing all the money in it.
 
 * 🇨🇱🏳️‍⚧️
 
