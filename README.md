@@ -3,7 +3,6 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dzndani/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deneevs)
-![GitHub followers](https://img.shields.io/github/followers/dzndani)
 
 
 * 💫 I am mainly a "graphic designer" but sometimes a translator or a programmer.
