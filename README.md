@@ -11,5 +11,5 @@
 
 * 🇨🇱🏳️‍⚧️
 
-* 🎶 My musical taste mainly depends on my mood, but in short... Indie, Indie Rock, Breakcore, Pop, Hip Hop and Rap. Although I am open to any kind of music.
+* 🎶 [last.fm](https://www.last.fm/user/DznDani)
 
