@@ -5,9 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deneevs)
 
 
-* 💫 I am mainly a "graphic designer" but sometimes a translator or a programmer.
+* 💫 Mainly a "graphic designer".
 
-* 🎰 I am too a fan of gambling CS:GO skins, and losing all the money in it.
+* 🎰 Fan of gamba.
 
 * 🇨🇱🏳️‍⚧️
 
