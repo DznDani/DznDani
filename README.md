@@ -11,5 +11,5 @@
 
 * 🇨🇱🏳️‍⚧️
 
-* 🎶 [last.fm](https://www.last.fm/user/DznDani)
+![🎶](https://lastfm-recently-played.vercel.app/api?user=DznDani)
 
